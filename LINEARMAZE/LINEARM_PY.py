@@ -1,7 +1,7 @@
 import tkinter as tk
 from collections import deque
 import os
-# 123123123123
+# test
 # ==========================================
 # 1. 檔案路徑與基本設定
 # ==========================================
