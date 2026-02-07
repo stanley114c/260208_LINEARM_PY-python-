@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1768752708 source:c:\users\hankliu\desktop\linearmaze\main.c
+	<stdio.h>
+	<string.h>
+
